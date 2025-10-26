@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Health indicator for game characters",
   "main": "src/js/app.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint .",
